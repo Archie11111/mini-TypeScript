@@ -57,3 +57,5 @@
 - 需要添加`.npmignore` 发布到npm需要忽略的文件
 - dist 中存放着打包代码 main中是指引用的入口文件 typings指打包的声明文件
 - 发布的时候注意发布的版本号
+- 
+### 在吗 能联系我邮箱 longwen1993@gmail.com 吗
